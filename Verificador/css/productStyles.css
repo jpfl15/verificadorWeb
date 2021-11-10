@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(192,255,192);
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    object-fit: contain;
+}
+
+.father{
+    display: flex;
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    text-align:left;
+    padding-left: 100px;
+}
+
+.error{
+    padding: 10%;
+}
+
+.icon{
+    display: flex;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    left: 50%;
+}
+
+h4{
+    text-align: center;
+}

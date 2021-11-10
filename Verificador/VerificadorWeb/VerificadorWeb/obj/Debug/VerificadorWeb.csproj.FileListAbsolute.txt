@@ -1,0 +1,10 @@
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\bin\Debug\VerificadorWeb.exe.config
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\bin\Debug\VerificadorWeb.exe
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\bin\Debug\VerificadorWeb.pdb
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.csprojAssemblyReference.cache
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.Form1.resources
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.Properties.Resources.resources
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.csproj.GenerateResource.cache
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.exe
+D:\XAMPP\htdocs\Verificador\VerificadorWeb\VerificadorWeb\obj\Debug\VerificadorWeb.pdb

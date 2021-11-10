@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Precios</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script type="text/javascript">
+        if (window.addEventListener){
+            var codigo = "";
+            window.addEventListener("keydown", function (e) {
+                codigo += String.fromCharCode(e.keyCode);
+                if (e.keyCode == 13){
+                    window.location = "carga.php?codigo=" + codigo;
+                    codigo = "";
+                }
+            }, true);
+        }
+    </script>
+    
+</head>
+<body>
+    <div>
+        <img src="img/Icon-Placeholder-1.png" alt="" width="10%" height=auto>
+    </div>
+    
+    <div>
+        
+        <img src="img/barcode-scan.gif" alt="" width="20%" height=auto>
+    </div>
+    
+    <h1>Ingresar el código de barras abajo</h1>
+</body>
+</html>

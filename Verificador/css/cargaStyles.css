@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(192,255,192);
+}
+
+div{
+    height: 400px;
+    position: relative;
+}
+
+img{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
